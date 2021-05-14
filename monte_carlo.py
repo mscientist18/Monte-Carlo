@@ -2,8 +2,8 @@ import math
 import random
 
 # function in integral
-def f():
-    math.exp(-i*i/2)
+def f(i):
+    return math.exp(-i*i/2)
 
 # range
 a=0
